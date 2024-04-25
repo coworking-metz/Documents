@@ -1,10 +1,10 @@
-Bienvenue au Poulailler ! 
+Bienvenue au Poulailler !
 
-Ce règlement de nous, de notre lieu, de nos valeurs et de ce que nous portons chaque jour, **pour votre confort**, en tant qu’équipe **bénévole**.
+Le poulailler est un espace de coworking géré par l'association Coworking Metz. Il s'agit d'une association de droit local, à but non lucratif, gérée par une équipe administrative **bénévole**.
 
-Nous sommes une association à but non lucratif gérée par une équipe **bénévole**, dont vous faites ou allez dorénavant faire partie en tant que membre adhérent, ce qui vous donne des droits, mais aussi des devoirs.
+En tant que membre adhérent, cette association est aussi la votre.
 
-Nous donnons de notre temps et mobilisons nos compétences pour les autres, gratuitement. Nous n’attendons qu’un seul retour de votre part :
+Les membres de l'association donnent de leur temps et mobilisent leurs compétences pour les autres, gratuitement. 
 
 **le respect du lieu que nous mettons à votre disposition, des gens qui le fréquentent et des règles que nous pensons être les meilleures pour faire en sorte que le plus grand nombre trouve sa place chez nous.**
 
@@ -14,7 +14,7 @@ Chacun a donc toute légitimité à se saisir du présent règlement, à l’app
 
 - Nous militons chaque jour pour que chacun ait accès à notre espace à un tarif abordable, dans les meilleures conditions de confort et d’environnement.
 - Nous militons chaque jour pour accueillir des indépendants, des télétravailleurs, des étudiants, des porteurs de projet, des personnes souhaitant se reconvertir ou en recherche d’emploi.
-- Nous militons chaque jour pour fédérer une communauté ouverte et solidaire basée sur l’entraide et l’écoute mutuelle, quelle que soit le profil des adhérents.
+- Nous militons chaque jour pour fédérer une communauté ouverte et solidaire basée sur l’entraide et l’écoute mutuelle, quel que soit le profil des adhérents.
 - Nous militons chaque jour pour développer notre projet associatif dans un environnement stimulant auquel nous souhaitons prendre part et que nous souhaitons faire grandir par, avec, et grâce à nous tous.
 
 Nous invitons donc nos membres à prendre connaissance de notre règlement intérieur et à le respecter autant que nous respectons et anticipons les besoins de chacun.
@@ -229,22 +229,24 @@ De façon générale, le niveau sonore restera maitrisé afin de ne pas dérange
 Un stage ou une alternance peuvent se dérouler dans notre espace de coworking dans ces conditions :
 
 - En amont de tout accueil, une demande doit être formulée auprès de l’association.
-- Le maître de stage / alternant doit avoir fréquenté l’espace de Coworking au moins 30 journées au cours des 90 derniers jours. Dans le cas contraire, il ne lui sera pas possible d’accueillir de stagiaire.
+- Le maître de stage / alternant doit avoir fréquenté l’espace de coworking au moins 30 journées au cours des 90 derniers jours.
 - Le maître de stage / alternant doit être présent à minima l’équivalent de 50% du temps de présence du stagiaire. À défaut, le stagiaire / alternant ne pourra plus avoir accès à l’espace de coworking.
-- Le stagiaire / alternant est un Coworker à part entière ce qui implique qu’il est soumis au règlement intérieur du Coworking et à la charte d’utilisation de l’espace Coworking.
+- Le stagiaire / alternant est un coworker à part entière soumis au règlement intérieur du coworking et à sa charte d’utilisation.
 - Au maximum, 1 stagiaire / alternant peut avoir le même référent.
 
 Dans tous les cas, l’association se réserve le droit de refuser toute demande, sans avoir à motiver sa décision.
 
 - **Tarifs réduits**
-Les offres d'abonnement et de carnet de tickets à tarif réduits sont à destination des étudiant(e)s et des personnes en recherche d'emploi. Les membres qui se pensent éligibles doivent se signaler auprès du CA de l'association en fournissant tous les justificatifs nécéssaires pour attester de leur situation. Le CA examinera ensuite leur situation afin d'accèder ou non à la demande.
+Les offres d'abonnement et de carnet de tickets à tarif réduits sont destinées aux étudiants et aux personnes en recherche d'emploi. Les membres qui se pensent éligibles doivent se signaler auprès du CA de l'association en fournissant tous les justificatifs nécessaires pour attester de leur situation. Le CA examinera ensuite leur situation afin d'accorder ou non la demande.
 
 ### Confidentialité
 
 L’Association Coworking Metz s’engage à respecter la confidentialité, l’anonymat et la protection des données de tous ses membres.
 
-Les données personnelles concernant les coworkers sont collectées à l’usage exclusif de l’association Coworking Metz notamment à des fins de facturation et de gestion des présences.
+Les données personnelles concernant les coworkers sont collectées à l’usage exclusif de l’association Coworking Metz, notamment à des fins de facturation et de gestion des présences.
 
-L’association Coworking Metz s’engage à ne jamais porter à la connaissance de tiers les informations nominatives communiquées par ses membres.
+L’association Coworking Metz s’engage à ne jamais divulguer à des tiers les informations nominatives communiquées par ses membres.
 
-Conformément aux dispositions du Règlement Général sur la Protection des Données (RGPD), les informations recueillies sont traitées dans le cadre de l’exécution des missions relatives aux activités de l’association Coworking Metz.
+Conformément aux dispositions du Règlement Général sur la Protection des Don
+
+nées (RGPD), les informations recueillies sont traitées dans le cadre de l’exécution des missions relatives aux activités de l’association Coworking Metz.
