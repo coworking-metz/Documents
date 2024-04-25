@@ -1,31 +1,41 @@
 > 1. **Association à But Non Lucratif**
+>
 > Le Poulailler est un espace de coworking géré par l'association Coworking Metz, qui est une association à but non lucratif gérée par une équipe bénévole.
 
 > 2. **Engagement des Membres**
+>
 > Les membres sont invités à participer activement à la vie, l'entretien, et le développement de l'espace, en respectant le lieu et les autres membres.
 
 > 3. **Accessibilité et Tarification**
+>
 > L'association milite pour un accès abordable à l'espace de coworking, en proposant différents tarifs, y compris des tarifs réduits pour les étudiants et les chercheurs d'emploi.
 
 > 4. **Règles d'Adhésion et d'Accès**
+>
 > L'adhésion est obligatoire pour l'assurance et donne droit de vote pour l'élection du Conseil d'Administration. L'accès à l'espace nécessite une adhésion valide et le respect du règlement intérieur.
 
 > 5. **Utilisation des Espaces et Services**
+>
 > Les membres doivent maintenir la propreté et l'ordre, et l'utilisation du matériel est strictement régulée. Les équipements personnels doivent être retirés quotidiennement.
 
 > 6. **Respect et Discrétion**
+>
 > Le coworking requiert un comportement respectueux, discret et une tenue appropriée. Les discussions à voix haute et les téléphones en mode sonnerie sont proscrits dans les zones de travail ouvertes.
 
 > 7. **Confidentialité et Protection des Données**
+>
 > L'association s'engage à respecter la confidentialité et la protection des données personnelles de ses membres, conformément au RGPD.
 
 > 8. **Règles de Sécurité et d'Exclusion**
+>
 > Tout manquement au règlement peut entraîner une exclusion immédiate. L'utilisation de l'espace pour des activités non compatibles avec les objectifs de l'association est interdite.
 
 > 9. **Accueil des Visiteurs et Usage des Espaces Partagés**
+>
 > Les visiteurs externes doivent être pré-approuvés et l'usage des espaces tels que les cabines téléphoniques et l'espace détente est réglementé pour maintenir l'ordre et la disponibilité.
 
 > 10. **Responsabilités et Assurances**
+>
 > Les membres sont responsables de leurs biens personnels et l'association décline toute responsabilité en cas de perte ou de vol.
 
 
