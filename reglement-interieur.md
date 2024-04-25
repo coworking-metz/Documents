@@ -1,3 +1,27 @@
+> 1. **Association à But Non Lucratif** : Le Poulailler est un espace de coworking géré par l'association Coworking Metz, qui est une association à but non lucratif gérée par une équipe bénévole.
+
+> 2. **Engagement des Membres** : Les membres sont invités à participer activement à la vie, l'entretien, et le développement de l'espace, en respectant le lieu et les autres membres.
+
+> 3. **Accessibilité et Tarification** : L'association milite pour un accès abordable à l'espace de coworking, en proposant différents tarifs, y compris des tarifs réduits pour les étudiants et les chercheurs d'emploi.
+
+> 4. **Règles d'Adhésion et d'Accès** : L'adhésion est obligatoire pour l'assurance et donne droit de vote pour l'élection du Conseil d'Administration. L'accès à l'espace nécessite une adhésion valide et le respect du règlement intérieur.
+
+> 5. **Utilisation des Espaces et Services** : Les membres doivent maintenir la propreté et l'ordre, et l'utilisation du matériel est strictement régulée. Les équipements personnels doivent être retirés quotidiennement.
+
+> 6. **Respect et Discrétion** : Le coworking requiert un comportement respectueux, discret et une tenue appropriée. Les discussions à voix haute et les téléphones en mode sonnerie sont proscrits dans les zones de travail ouvertes.
+
+> 7. **Confidentialité et Protection des Données** : L'association s'engage à respecter la confidentialité et la protection des données personnelles de ses membres, conformément au RGPD.
+
+> 8. **Règles de Sécurité et d'Exclusion** : Tout manquement au règlement peut entraîner une exclusion immédiate. L'utilisation de l'espace pour des activités non compatibles avec les objectifs de l'association est interdite.
+
+> 9. **Accueil des Visiteurs et Usage des Espaces Partagés** : Les visiteurs externes doivent être pré-approuvés et l'usage des espaces tels que les cabines téléphoniques et l'espace détente est réglementé pour maintenir l'ordre et la disponibilité.
+
+> 10. **Responsabilités et Assurances** : Les membres sont responsables de leurs biens personnels et l'association décline toute responsabilité en cas de perte ou de vol.
+
+
+
+# Règlement intérieur détaillé
+
 Bienvenue au Poulailler !
 
 Le poulailler est un espace de coworking géré par l'association Coworking Metz. Il s'agit d'une association de droit local, à but non lucratif, gérée par une équipe administrative **bénévole**.
@@ -14,7 +38,7 @@ Chacun a donc toute légitimité à se saisir du présent règlement, à l’app
 
 - Nous militons chaque jour pour que chacun ait accès à notre espace à un tarif abordable, dans les meilleures conditions de confort et d’environnement.
 - Nous militons chaque jour pour accueillir des indépendants, des télétravailleurs, des étudiants, des porteurs de projet, des personnes souhaitant se reconvertir ou en recherche d’emploi.
-- Nous militons chaque jour pour fédérer une communauté ouverte et solidaire basée sur l’entraide et l’écoute mutuelle, quel que soit le profil des adhérents.
+- Nous militons chaque jour pour fédérer une communauté ouverte et solidaire basée sur l’entraide et l’écoute mutuelle, quel que soit le profil des adhérent(e)s.
 - Nous militons chaque jour pour développer notre projet associatif dans un environnement stimulant auquel nous souhaitons prendre part et que nous souhaitons faire grandir par, avec, et grâce à nous tous.
 
 Nous invitons donc nos membres à prendre connaissance de notre règlement intérieur et à le respecter autant que nous respectons et anticipons les besoins de chacun.
