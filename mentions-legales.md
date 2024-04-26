@@ -13,7 +13,7 @@ Gilles FRANCOIS (président de l’association)
 Hébergeur
 ---------
 
-O2SWITCH SARL au capital de 100 000 €  
-Siret : 510 909 807 00024 – RCS Clermont Ferrand  
-Siège social : 222 Boulevard Gustave Flaubert –  63000  Clermont-Ferrand – France.  
-Téléphone : 04 44 44 60 40
+OVH. SAS au capital de 10 174 560 € 
+RCS Lille Métropole 424 761 419 00045. 
+Code APE 2620Z N° TVA : FR 22 424 761 419
+Siège social : 2 rue Kellermann - 59100 Roubaix - France.
