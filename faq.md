@@ -4,7 +4,7 @@ Le Poulailler est le nom donné à notre espace de coworking. Il est géré par 
 
 #### Dois-je prendre rendez-vous pour découvrir l'espace decoworking ?
 
-Les personnnes voulant rejoindre le Poulailler doivent prendre rendez-vous via [notre plateforme](https://rejoindre.coworking-metz.fr).
+Les personnnes voulant rejoindre le Poulailler doivent prendre rendez-vous via [notre plateforme de prise de rendez-vous](https://rejoindre.coworking-metz.fr).
 
 **Merci de noter qu’aucune visite ne pourra avoir lieu sans rendez-vous.**
 
