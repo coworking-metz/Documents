@@ -271,7 +271,9 @@ Un stage ou une alternance peuvent se dérouler dans notre espace de coworking d
 Dans tous les cas, l’association se réserve le droit de refuser toute demande, sans avoir à motiver sa décision.
 
 - **Tarifs réduits**
-Les offres d'abonnement et de carnet de tickets à tarif réduits sont destinées aux étudiants et aux personnes en recherche d'emploi. Les membres qui se pensent éligibles doivent se signaler auprès du CA de l'association en fournissant tous les justificatifs nécessaires pour attester de leur situation. Le CA examinera ensuite leur situation afin d'accorder ou non la demande.
+Les offres d'abonnement et de carnet de tickets à tarif réduits sont destinées aux étudiants et aux personnes en recherche d'emploi. Les membres qui se pensent éligibles doivent se signaler auprès du CA de l'association en fournissant tous les justificatifs nécessaires pour attester de leur situation. Le CA examinera ensuite leur situation afin d'accorder ou non la demande. 
+
+Les étudiant(e)s ou alternant(e)s qui fréquentent le coworking dans le cadre d'un stage/alternance ne sont pas éligibles au tarif réduit (comme indiqué ci-contre, c'est à l'employeur de payer l'abonnement coworking de son stagiaire/alternant)
 
 ### Confidentialité
 
