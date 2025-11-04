@@ -164,9 +164,10 @@ Il est interdit d’utiliser l’adresse postale du Coworking ou de BLIIIDA sur 
 
 - **Démarchage, prospection ou publicité**
 
-L’espace de coworking n’est pas un lieu de démarchage ou prospection commerciale.
+Il est interdit de déposer dans l’espace des supports de communication (flyers, cartes de visite, etc.) à des fins publicitaires.
+Les membres souhaitant valoriser leurs compétences peuvent le faire via [l’annuaire des compétences du coworking](https://www.coworking-metz.fr/annuaire-des-competences/). 
 
-Il n’est pas possible de faire sa publicité au travers de supports de communication (flyers, cartes de visite, etc.) qui seraient déposés dans l’espace. 
+Le démarchage ou la prospection non sollicitée au sein de l’espace de coworking sont strictement interdits.
 
 ### Respect des personnes et des lieux
 
