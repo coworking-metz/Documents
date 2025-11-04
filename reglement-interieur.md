@@ -281,6 +281,4 @@ Les données personnelles concernant les coworkers sont collectées à l’usage
 
 L’association Coworking Metz s’engage à ne jamais divulguer à des tiers les informations nominatives communiquées par ses membres.
 
-Conformément aux dispositions du Règlement Général sur la Protection des Don
-
-nées (RGPD), les informations recueillies sont traitées dans le cadre de l’exécution des missions relatives aux activités de l’association Coworking Metz.
+Conformément aux dispositions du Règlement Général sur la Protection des Données (RGPD), les informations recueillies sont traitées dans le cadre de l’exécution des missions relatives aux activités de l’association Coworking Metz.
